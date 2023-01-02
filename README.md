@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Credi: <https://youtu.be/K1en3osvPdY>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
