@@ -1,4 +1,4 @@
-# Credi: <https://youtu.be/K1en3osvPdY>
+# Credit: <https://youtu.be/K1en3osvPdY>
 
 ## Getting Started with Create React App
 
